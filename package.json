@@ -1,0 +1,10 @@
+{
+  "name": "growiseinvest-v27-mern-edition",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build"
+  }
+}

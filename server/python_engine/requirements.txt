@@ -1,0 +1,9 @@
+numpy
+pandas
+yfinance
+rich
+openpyxl
+matplotlib
+python-docx
+requests
+# Optional for live Zerodha/Kite Connect adapter: kiteconnect

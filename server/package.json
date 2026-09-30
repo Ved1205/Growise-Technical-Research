@@ -1,0 +1,13 @@
+{
+  "name":"growiseinvest-mern-technical-server",
+  "version":"2.1.0",
+  "private":true,
+  "scripts":{"start":"node server.js","dev":"node server.js"},
+  "dependencies":{
+    "archiver":"^7.0.1",
+    "cors":"^2.8.5",
+    "express":"^4.21.2",
+    "mongoose":"^8.18.0",
+    "pdfkit":"^0.16.0"
+  }
+}
